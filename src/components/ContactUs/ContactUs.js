@@ -9,7 +9,7 @@ const ContactUs = () => {
                 <div className="hero-content grid sm:grid-cols-1 md:grid-cols-2  max-w-3xl">
 
                     <div className="text-center lg:text-left heading-text">
-                        <h1 className="text-5xl font-bold">
+                        <h1 className="text-3xl md:text-5xl font-bold">
                             DO YOU
                             <br />
                             WANT MORE

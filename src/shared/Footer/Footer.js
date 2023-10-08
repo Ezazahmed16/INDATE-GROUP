@@ -16,7 +16,7 @@ const Footer = () => {
 
 
         <div className="">
-          <h1 className='text-end text-black'> INDATE GROUP </h1>
+          <h1 className='text-end text-black'> INDET GROUP </h1>
         </div>
 
 

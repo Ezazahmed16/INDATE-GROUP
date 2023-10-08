@@ -77,7 +77,7 @@ const Blog = () => {
                     </div>
 
                     <div className="grid md:grid-cols-4 gap-5">
-                        <div className=''>
+                        <div className='mt-5 md:mt-0'>
                             <Link  >
                                 <div className="card card-compact bg-base-100 shadow-xl">
                                     <figure><img className='w-46' src={HARVEST_CROP} alt="Shoes" /></figure>
